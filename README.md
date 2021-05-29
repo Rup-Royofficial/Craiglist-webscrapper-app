@@ -1,2 +1,2 @@
-# Craiglist-webscrapper-app
-A simple webscrapper application(django-based)
+#Chatting application (terminal based)
+A simple texting application(based on python)
